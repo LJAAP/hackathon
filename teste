@@ -1,1 +1,200 @@
+<!DOCTYPE html>
 
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css">
+
+    <title>Vestibulinho</title>
+
+</head>
+
+<body>
+    <center>
+    <header class="header">
+
+        <nav>
+
+            <div class="logo">
+
+                <h1>CPS</h1>
+
+            </div>
+
+            <ul class="menu">
+
+                <li><a href="#">Início</a></li>
+
+                <li><a href="#">Instituições</a></li>
+
+                <li><a href="#">Cronograma</a></li>
+
+                <li class="dropdown">
+
+                    <a href="#">Mais <i class="fa fa-caret-down"></i></a>
+
+                    <ul class="dropdown-content">
+
+                        <li><a href="#">nseitbm</a></li>
+
+                        <li><a href="#">Demanda</a></li>
+
+                        <li><a href="#">Apresentações</a></li>
+
+                        <li><a href="#">Chat</a></li>
+
+                    </ul>
+
+                </li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <body>
+        <input type="radio" name="position" checked />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <main id="carousel">
+          <div class="item"></div>
+          <div class="item"></div>
+          <div class="item"></div>
+          <div class="item"></div>
+          <div class="item"></div>
+          <main>
+      </body>
+
+    <main>
+
+        <section class="featured-products">
+
+            <h2>Cursos</h2>
+
+        </section>
+
+    </main>
+
+    <body>
+        
+        <div class="plan">
+          <div class="inner">
+            <span class="pricing">
+              <span>
+                <small></small>
+              </span>
+            </span>
+            <p class="title">ADM</p>
+            <p class="info">O Técnico em Administração é o profissional que controla a rotina administrativa das empresas.
+              Colabora nos planejamentos estratégico, tático e operacional. Realiza atividades em recursos humanos e
+              intermedeia mão-de-obra para colocação e para recolocação profissional.
+              Atua na área de compras; auxilia no setor contábil e assessora a área de Vendas. Intercambia mercadorias e
+              serviços e executa atividades nas áreas fiscal e financeira.</p>
+            <ul class="features">
+              <li>
+                <span class="icon">
+                  <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 0h24v24H0z" fill="none"></path>
+                    <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                  </svg>
+                </span>
+                <span><strong>2</strong> Anos</span>
+              </li>
+              <li>
+                <span class="icon">
+                  <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 0h24v24H0z" fill="none"></path>
+                    <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                  </svg>
+                </span>
+                <span>Online</span>
+              </li>
+              <li>
+                <span class="icon">
+                  <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 0h24v24H0z" fill="none"></path>
+                    <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                  </svg>
+                </span>
+                <span>Presencial</span>
+              </li>
+            </ul>
+            <div class="action">
+              <a class="button" href="#">
+                Saiba Mais
+              </a>
+            </div>
+          </div>
+        </div>
+      
+      
+      
+        <div class="kkkj">
+          <div class="inner">
+            <span class="pricing">
+              <span>
+                <small></small>
+              </span>
+            </span>
+            <p class="title">DS</p>
+            <p class="info">Nesta modalidade de ensino, baseada na Lei nº 13.415/17, o aluno cursará o Ensino Médio
+                estruturado em conjunto com a formação de Técnico em Desenvolvimento, numa jornada de até 30 aulas semanais (até
+                6 aulas diárias), em cada uma das 3 séries. Ao final do curso, o aluno terá concluído o Ensino Médio e obterá,
+                também, o diploma de Técnico em Desenvolvimento de Sistemas, com validade nacional, de acordo com o perfil.</p>
+            <ul class="features">
+              <li>
+                <span class="icon">
+                  <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 0h24v24H0z" fill="none"></path>
+                    <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                  </svg>
+                </span>
+                <span><strong>2</strong> Anos</span>
+              </li>
+              <li>
+                <span class="icon">
+                  <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 0h24v24H0z" fill="none"></path>
+                    <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                  </svg>
+                </span>
+                <span>Online</span>
+              </li>
+              <li>
+                <span class="icon">
+                  <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 0h24v24H0z" fill="none"></path>
+                    <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                  </svg>
+                </span>
+                <span>Presencial</span>
+              </li>
+            </ul>
+            <div class="action">
+              <a class="button" href="#">
+                Saiba Mais
+              </a>
+            </div>
+          </div>
+        </div>
+        </center>
+
+    <footer>
+
+        <p>&copy; 2023 %%%%</p>
+
+    </footer>
+
+
+</body>
+
+
+</html>
